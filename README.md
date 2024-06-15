@@ -65,7 +65,3 @@ This image shows the Sudoku board after clicking the "Generate" button.
 ![Solved Sudoku Board](./images/solved_board.png)
 
 This image shows the Sudoku board after clicking the "Solve" button, displaying the solved puzzle.
-
----
-
-Feel free to reach out for any queries or suggestions.
